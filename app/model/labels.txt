@@ -1,0 +1,3 @@
+0 Recyclable
+1 Landfill
+2 Compost
